@@ -33,9 +33,9 @@ Opens http://localhost:8080
 Web
 
 <p align="center">  
-      <img alt="home" src="/public/app-screenshots/Home Page.PNG" width="45%">
-      <img alt="notes" src="/public/app-screenshots/Create Note.PNG" width="45%">
-      <img alt="fiilter" src="/public/app-screenshots/Filter.PNG" width="45%">
+      <img alt="home" src="/public/app-screenshots/HomePage.PNG" width="45%">
+      <img alt="notes" src="/public/app-screenshots/CreateNote.PNG" width="45%">
+      <img alt="filter" src="/public/app-screenshots/FilterNotes.PNG" width="45%">
 
 </p>
 
